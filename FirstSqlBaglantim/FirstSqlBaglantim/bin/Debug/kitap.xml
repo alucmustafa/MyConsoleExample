@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kitaplar>
+  <Kitap>
+    <kitapno>1</kitapno>
+    <kitapadi>Sefiller</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Viktor hugo</yazaradi>
+    <tur>roman</tur>
+    <fiyat>125</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>240</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>2</kitapno>
+    <kitapadi>Beyaz Gemi</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Cengiz Aytmatov</yazaradi>
+    <tur>roman</tur>
+    <fiyat>150</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>150</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>3</kitapno>
+    <kitapadi>Suç ve Ceza</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Dostoyevski</yazaradi>
+    <tur>roman</tur>
+    <fiyat>99</fiyat>
+    <puan>90</puan>
+    <sayfasayisi>280</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>4</kitapno>
+    <kitapadi>Otuz Beş Yaş </kitapadi>
+    <yayinevi>C yayınları</yayinevi>
+    <yazaradi>Cahit Sıtkı Tarancı</yazaradi>
+    <tur>şiir</tur>
+    <fiyat>50</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>120</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>5</kitapno>
+    <kitapadi>Beyaz Zambaklar Ülkesinde</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Grigoriy Petrov</yazaradi>
+    <tur>tarih</tur>
+    <fiyat>45</fiyat>
+    <puan>90</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>6</kitapno>
+    <kitapadi>1984</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>George Orwell</yazaradi>
+    <tur>bilim kurgu</tur>
+    <fiyat>75</fiyat>
+    <puan>60</puan>
+    <sayfasayisi>180</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>7</kitapno>
+    <kitapadi>Tesla: Zamanin Ötesindeki Deha</kitapadi>
+    <yayinevi>C yayınları</yayinevi>
+    <yazaradi>Margaret Cheney</yazaradi>
+    <tur>biyografi</tur>
+    <fiyat>100</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>75</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>8</kitapno>
+    <kitapadi>Fedailerin Kalesi Alamut</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Vladimir Bartol</yazaradi>
+    <tur>tarih</tur>
+    <fiyat>125</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>120</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>9</kitapno>
+    <kitapadi>Simyacı</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Paulo Coelho</yazaradi>
+    <tur>roman</tur>
+    <fiyat>88</fiyat>
+    <puan>80</puan>
+    <sayfasayisi>200</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>10</kitapno>
+    <kitapadi>Mavi Yakut - Sherlock Holmes</kitapadi>
+    <yayinevi> B yayınları</yayinevi>
+    <yazaradi>Arthur Conan Doyle</yazaradi>
+    <tur>polisiye</tur>
+    <fiyat>59</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>13</kitapno>
+    <kitapadi>Bütün Şiirleri - Sabahattin Ali</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi>Sabahattin Ali</yazaradi>
+    <tur>şiir</tur>
+    <fiyat>45</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>85</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>14</kitapno>
+    <kitapadi>Düşün Ve Zengin Ol</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi>Napoleon Hill</yazaradi>
+    <tur>Kişisel Gelişim</tur>
+    <fiyat>100</fiyat>
+    <puan>60</puan>
+    <sayfasayisi>120</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>16</kitapno>
+    <kitapadi>Bilinçaltının Gizli Şifreleri</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi> Pozitif Kişisel Gelişim</yazaradi>
+    <tur>Kişisel Gelişim</tur>
+    <fiyat>100</fiyat>
+    <puan>50</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>17</kitapno>
+    <kitapadi>Kozmos</kitapadi>
+    <yayinevi>C yayınları</yayinevi>
+    <yazaradi>Carl Sagan</yazaradi>
+    <tur>bilim </tur>
+    <fiyat>75</fiyat>
+    <puan>100</puan>
+    <sayfasayisi>140</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>18</kitapno>
+    <kitapadi>Kara Delikler</kitapadi>
+    <yayinevi>A yayınları</yayinevi>
+    <yazaradi> Stephen Hawking</yazaradi>
+    <tur>bilim</tur>
+    <fiyat>105</fiyat>
+    <puan>90</puan>
+    <sayfasayisi>200</sayfasayisi>
+  </Kitap>
+  <Kitap>
+    <kitapno>19</kitapno>
+    <kitapadi>Kuantum Sınırında Yaşam</kitapadi>
+    <yayinevi>B yayınları</yayinevi>
+    <yazaradi> Johnjoe McFadden</yazaradi>
+    <tur>bilim</tur>
+    <fiyat>120</fiyat>
+    <puan>70</puan>
+    <sayfasayisi>190</sayfasayisi>
+  </Kitap>
+  <kitap>
+    <kitapno>20</kitapno>
+    <kitapadi>deneme</kitapadi>
+    <yayinevi>bir</yayinevi>
+    <yazaradi>mustafa</yazaradi>
+    <tur>bilim</tur>
+    <fiyat>45</fiyat>
+    <puan>10</puan>
+    <sayfasayisi>100</sayfasayisi>
+  </kitap>
+</Kitaplar>
